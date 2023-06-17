@@ -10,7 +10,7 @@ Terrorist attacks have become a serious source of risk affecting the security of
 
 🔸Attacks were more during 2014 and then in 2015. When compared to attacks from 1970 onwards, the last 6 years scored a maximum. But from 2014 onwards count started decreasing.
 
-🔸Almost Every day has the same contribution but attacks were low during 31st and high during 15th and 1st.
+🔸Almost Every day has the same contribution but attacks were low during the 31st and high during the 15th and 1st.
 
 🔸Iraq dominates all the countries and it has the highest number of attacks and then Pakistan, Afghanistan, and India follow it.
 
