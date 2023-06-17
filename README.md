@@ -19,3 +19,7 @@ Terrorist attacks have become a serious source of risk affecting the security of
 🔸For most of the attacks, the target is Private Citizens& property and the next Military leads.
 
 🔸Most of the attacks were through either Bombing or Explosion.
+
+
+Dataset Link:
+https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view?usp=sharing
